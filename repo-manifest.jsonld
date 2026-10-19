@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dry-python/stories/commit/0754046098c3f7468ef5e05a48bcf46d44f871ce",
       "git:hexsha": "0754046098c3f7468ef5e05a48bcf46d44f871ce",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/dry-python/stories/commit/2b8f41a12dd2aef30eb45bb0470c796805120e67",
